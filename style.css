@@ -39,6 +39,7 @@ span {
     line-height: 189%;
     display: flex;
     align-items: center;
+    margin-bottom: 28px;
 }
 .mickey-desc span {
 background-color: #b99fea;
@@ -77,11 +78,12 @@ margin-right: 30px;
     gap: 139px;
 }
 .koko-desc {
-    font-size: 1px;
+    font-size: 19px;
     color: #101010;
     line-height: 184%;
     display: flex;
     align-items: center;
+    margin-bottom: 28px;
 }
 .koko-desc span {
     background-color: #EBA789;
@@ -99,7 +101,6 @@ margin-right: 30px;
     font-size: 14px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding-bottom: 35px;
 }
 .koko-link {
@@ -125,6 +126,7 @@ margin-right: 30px;
     line-height: 189%;
     display: flex;
     align-items: center; 
+    margin-bottom: 28px;
 }
 .vayana-desc span {
     background-color: #96DBC6;
@@ -142,7 +144,6 @@ margin-right: 30px;
     font-size: 15px;
     line-height: 158%;
     color: #101010;
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
     padding-bottom: 35px;
 }
 .vayana-link {
